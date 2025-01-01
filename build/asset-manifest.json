@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2715b61a.css",
+    "main.js": "/static/js/main.9aa0950e.js",
+    "static/js/488.3ed75115.chunk.js": "/static/js/488.3ed75115.chunk.js",
+    "static/media/back.mp4": "/static/media/back.0929d9024f4f04733074.mp4",
+    "static/media/solarSection.mp4": "/static/media/solarSection.b595cce4725dc3495b9a.mp4",
+    "static/media/boom.mp4": "/static/media/boom.b0aae01bfb2353640b04.mp4",
+    "static/media/sola main.png": "/static/media/sola main.eef7b4004e0824afc3bc.png",
+    "static/media/Uranus.png": "/static/media/Uranus.6f85c6870899e2969394.png",
+    "static/media/venus.webp": "/static/media/venus.54154f4dc9e9afc6be5c.webp",
+    "static/media/mercury-11591_640.png": "/static/media/mercury-11591_640.8cb2d2a9b543bc1e7cfc.png",
+    "static/media/Neptune.png": "/static/media/Neptune.1253761c4b52066943be.png",
+    "static/media/earth.png": "/static/media/earth.a89fa29b388923880fa2.png",
+    "static/media/Jupiter.png": "/static/media/Jupiter.a32a0892eed5b6fc5458.png",
+    "index.html": "/index.html",
+    "main.2715b61a.css.map": "/static/css/main.2715b61a.css.map",
+    "main.9aa0950e.js.map": "/static/js/main.9aa0950e.js.map",
+    "488.3ed75115.chunk.js.map": "/static/js/488.3ed75115.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2715b61a.css",
+    "static/js/main.9aa0950e.js"
+  ]
+}
