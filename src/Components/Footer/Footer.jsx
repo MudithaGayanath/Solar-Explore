@@ -19,7 +19,7 @@ function Footer() {
             linkText.map((item)=>{
               return(
 
-                <Link to={`http://localhost:3000${item.url}`} className="hover:text-yellow-400 text-white text-sm">{item.name}</Link>
+                <Link to={`https://solar-explore-s1bp.vercel.app${item.url}`} className="hover:text-yellow-400 text-white text-sm">{item.name}</Link>
               )
             })
           }
